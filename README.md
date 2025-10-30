@@ -22,6 +22,23 @@ Built with modern web technologies — React, Three.js, GSAP, Tailwind CSS, and 
 # Live Demo
 **Check it out here:** [Apple MacBook Website](https://apple-website-two-delta.vercel.app/)
 
+# Tech Stack
+- CodeRabbit: AI-powered code review tool that integrates with VS Code, GitHub, and GitLab, offering real-time feedback, security checks, and coding standard enforcement. Learns team preferences to improve code quality.
+
+- GSAP: JavaScript animation library for scroll-driven visuals, including text reveals, parallax, pinned sections, scroll-synced videos, image masking, and custom carousels.
+
+- Vercel: Web hosting platform providing fast deployment.
+
+- React: Component-based library for interactive UIs, powering GSAP animations, state-driven layouts, carousels, and responsive design.
+
+- Tailwind CSS: Utility-first CSS framework for rapid, customizable UI development.
+
+- Three.js: JavaScript 3D library for interactive browser graphics, supporting models, lighting, textures, animations, raycasting, and immersive effects.
+
+- Vite: Fast build tool and dev server with hot module replacement, instant startup, and optimized production builds—ideal for animation-heavy React apps.
+
+- Zustand: Lightweight React state management library for global state, reactive updates, middleware support, and minimal boilerplate.
+
 # Features 
 
 👉 3D Product Scene with Realistic Lighting System: Showcased products in lifelike 3D environments for maximum visual impact.
