@@ -71,5 +71,5 @@ Open http://localhost:5173 in your browser to view the project.
 # Connect with Me
 <p align="center">
   <a href="https://github.com/Rites23"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/riteshbalu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ritesh-balu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
